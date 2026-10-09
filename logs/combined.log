@@ -1,0 +1,18 @@
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api"}
+{"level":"info","message":"combine","service":"acquisition-api"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api","timestamp":"2026-10-08T17:39:08.085Z"}
+{"level":"info","message":"combine","service":"acquisition-api","timestamp":"2026-10-08T17:39:08.118Z"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api","timestamp":"2026-10-08T17:40:38.002Z"}
+{"level":"info","message":"combine","service":"acquisition-api","timestamp":"2026-10-08T17:40:38.029Z"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api","timestamp":"2026-10-09T02:19:10.353Z"}
+{"level":"info","message":"combine","service":"acquisition-api","timestamp":"2026-10-09T02:19:10.411Z"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api"}
+{"level":"info","message":"combine","service":"acquisition-api"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api"}
+{"level":"info","message":"combine","service":"acquisition-api"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api","timestamp":"2026-10-09T02:30:51.604Z"}
+{"level":"info","message":"combine","service":"acquisition-api","timestamp":"2026-10-09T02:30:51.629Z"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api","timestamp":"2026-10-09T02:38:20.796Z"}
+{"level":"info","message":"::1 - - [09/Oct/2026:02:38:20 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.141.0 Chrome/150.0.7871.250 Electron/43.7.7 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-10-09T02:38:20.820Z"}
+{"level":"info","message":"Hello form Acquisitions!","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [09/Oct/2026:02:38:59 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.141.0 Chrome/150.0.7871.250 Electron/43.7.7 Safari/537.36\"","service":"acquisition-api"}

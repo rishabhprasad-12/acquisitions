@@ -3,6 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "import": {
+    "#config/*": "./src/config/*",
+    "#middleware/*": "./src/middleware/*",
+    "#controller/*": "./src/controller/*",
+    "#models/*": "./src/models/*",
+    "#routes/*": "./src/routes/*",
+    "#service/*": "./src/service/*",
+    "#utils/*": "./src/utils/*",
+    "#validations/*": "./src/validations/*"
+  },
   "scripts": {
     "dev": "node --watch src/index.js",
     "lint": "eslint .",
@@ -27,10 +37,15 @@
   "homepage": "https://github.com/rishabhprasad-12/acquisitions#readme",
   "dependencies": {
     "@neondatabase/serverless": "^1.2.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
     "dotenv": "^18.0.6",
     "drizzle-kit": "^0.31.11",
     "drizzle-orm": "^0.45.4",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "helmet": "^8.3.0",
+    "morgan": "^1.12.1",
+    "winston": "^3.19.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
